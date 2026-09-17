@@ -1,7 +1,7 @@
 # ========================
 # Stage 1: Build Backend
 # ========================
-FROM golang:1.23-alpine AS backend-builder
+FROM golang:alpine AS backend-builder
 
 ENV GOWORK=off
 ENV CGO_ENABLED=0
