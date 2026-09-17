@@ -6,6 +6,7 @@
 *.sqlite3
 *.log
 *.zip
+*.exe
 desktop.ini
 register.js
 register.json
